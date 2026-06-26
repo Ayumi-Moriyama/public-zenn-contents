@@ -7,6 +7,11 @@ title: "【第一回】後半：GitHub & Soursetreeでの操作"
 下記サイトがわかりやすいのでおすすめ
 https://backlog.com/ja/git-tutorial/
 
+## gitignore
+Gitによるバージョン管理から除外したいファイルやディレクトリを指定するためのファイル。
+「.gitignore」というファイル名にすること。
+https://qiita.com/Hashimoto-Noriaki/items/a9d6b6d5d2edd0457369
+
 ## Gitコマンドの例
 
 ### 初期化
